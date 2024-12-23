@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* <div
+className="fa fa-facebook mr-[20px] text-2xl transition-colors duration-300 "
+style={{ color: "#FDF100" }}
+> */
